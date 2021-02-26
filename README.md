@@ -1,5 +1,5 @@
 # :fr: french-cities-complete-list-symfony :fr:
-This repo contain a complete list of the french cities loadable with the fixtures bundle of Symfony.
+This repo contains a complete list of the french cities loadable with the fixtures bundle of Symfony.
 
 ## :computer: How to install
 1. Transfer all the files in the respective folders of your project
